@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Body & Soul",
+        "ratings": 4.5,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/body%20and%20soul.PNG?alt=media&token=ebde0977-54d1-48fb-afee-b3ee66550b5e",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/body%20and%20soul%20img.jpg?alt=media&token=8cbfc980-a00c-4e60-9d4a-db2c72fa9bad",
+        "intro": "Welcome to Body and Soul Spa where we specialize in affordable non-Surgical treatments to help sculpt your perfect image. We believe in “New Body, New Life.",
+        "details": "Body & Soul Spa Retreat offers a wide range of signature treatments including massage, facials, body rituals, bath treatments and more to bring tranquility, calm and relaxation into your life.",
+        "price": 200
+        
+        
+    },
+    {
+        "name": "Oil Therapy",
+        "ratings": 4.5,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/oil%20therapy.PNG?alt=media&token=7a792b08-0e5e-496b-abfc-fb194ced7aff",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/oil%20therapy%20img.jpg?alt=media&token=6ca2cf66-3d44-48ab-bd67-bbc9edecb507",
+        "intro": "For energy and digestion · Lemon: For digestion, mood, and headaches · Lavender: To relieve stress and promote sleep.",
+        "details": "Aromatherapy is a holistic healing treatment that uses natural plant extracts to promote health and well-being. Sometimes it's called essential oil therapy. Aromatherapy uses aromatic essential oils medicinally to improve the health of the body, mind, and spirit. It enhances both physical and emotional health.",
+        "price": 250
+    },
+    {
+        "name": "Day SPA",
+        "ratings": 4.9,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/day%20spa.PNG?alt=media&token=a86e7e08-50b5-48fa-8243-fb5ea0439412",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/day-spa%20img.jpg?alt=media&token=ad80eee8-5de9-4439-b6b2-6a6ac61325ad",
+        "intro": "s well as giving you a feeling of ultimate relaxation, spa days can contribute to improved circulation, pain reduction, tension release and better quality sleep",
+        "details": " Day SPA contains facilities such as a sauna, pool, steam room, or whirlpool. A day spa is also different from a destination spa, as no overnight accommodation is provided.",
+        "price": 300
+    },
+    {
+        "name": "SAUNA",
+        "ratings": 4.7,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/sauna.PNG?alt=media&token=e048e19b-993a-4cc6-85a9-52718bea93e9",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/sauna%20img.jpg?alt=media&token=44c6f26f-3549-4886-84ca-c4e6110075a7",
+        "intro": "it's helpful for Stress-relief, Improve sleep, Remove toxins from your system, Weight loss & calorie burning, Muscle relaxant & workout",
+        "details": "Regardless of how a sauna is heated, or the humidity level, the effects on the body are similar. When a person sits in a sauna, their heart rate increases and blood vessels widen. This increases circulation, in a similar way to low to moderate exercise depending on the duration of sauna use.",
+        "price": 300
+    },
+    {
+        "name": "Facials",
+        "ratings": 5,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/facial.PNG?alt=media&token=2b100a14-6222-4531-ad03-2e4b98571e5f",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/facials%20img.jpg?alt=media&token=b58d84aa-6e86-4280-a14c-16b965a0f021",
+        "intro": " Facials can help clear clogged pores, quench parched skin and remove dead cells.",
+        "details": "Facials help to renew skin cells by circulating the blood flow under the skin, which then can decrease puffiness and fluid build up that comes from our lymphatic system. Good circulation is important in that it brings oxygen, proteins and nutrition to the skin, while ridding our skin of toxins.",
+        "price": 100
+    },
+    {
+        "name": "Massage",
+        "ratings": 5,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/massage.PNG?alt=media&token=b0ce66f6-8b49-417e-a766-cc1941e64c49",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/massage%20spa%20img.jpg?alt=media&token=a791f221-3d0f-464f-bf9d-a4fa2c56d76d",
+        "intro": "Massage can Reduce stress and increasing relaxation.",
+        "details": "Helpful to reducing pain and muscle soreness and tension. Improving circulation, energy and alertness. Lowering heart rate and blood pressure.",
+        "price": 500
+    },
+    {
+        "name": "Wellness",
+        "ratings": 5,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/wellness.PNG?alt=media&token=0d2909dc-94fc-42b0-b923-875355982355",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/wellness%20img.jpg?alt=media&token=1a17d7ad-38a2-4787-a945-333d9c509ef5",
+        "intro": "you going to feel better mentally, but you're also going to feel more confident, sleep better and benefit from better skin.",
+        "details": "Fitness and exercise retreats; recovery retreats for those suffering with chronic health conditions.",
+        "price": 500
+    },
+    {
+        "name": "SPA Package",
+        "ratings": 5,
+        "thump_img": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/spa%20package.PNG?alt=media&token=255935d5-c6c7-45d4-86e1-ef83b4a63a98",
+        "image": "https://firebasestorage.googleapis.com/v0/b/diana-spa-740a4.appspot.com/o/spa%20packages%20img.jpg?alt=media&token=1ebc960d-3e1d-4ffa-9890-95111457fcc0",
+        "intro": "A spa package, consisting of two nights' accommodation, breakfast, one dinner, a body treatment and facial",
+        "details": "As well as giving you a feeling of ultimate relaxation, spa days can contribute to improved circulation, pain reduction, tension release and better quality sleep.",
+        "price": 700
+    }
+]
